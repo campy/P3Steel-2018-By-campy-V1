@@ -1,0 +1,30 @@
+Motores Z: http://s.click.aliexpress.com/e/cABJVILe
+Fuente de 24V: http://s.click.aliexpress.com/e/NwCwTCU
+Superficie de impresión: https://amzn.to/2L5kZky
+Base magnetica: http://s.click.aliexpress.com/e/bwokABvq
+Electronica + LCD: http://s.click.aliexpress.com/e/ckTwAe9a
+Extrusor: http://s.click.aliexpress.com/e/bTbeQd44
+Titan aero:http://s.click.aliexpress.com/e/C4EEcKU
+Motor Extrusor: http://s.click.aliexpress.com/e/B8WhCLm
+Punta nozzle: http://s.click.aliexpress.com/e/clqdvE9w
+Guias lineales: http://s.click.aliexpress.com/e/8MLn5G8
+Cama 300x200: http://s.click.aliexpress.com/e/5wnEe1K
+Motores nema: http://s.click.aliexpress.com/e/cGhU9nAu
+Tuercas antibacklash: http://s.click.aliexpress.com/e/bDDfShyc
+Ventilador de capa: http://s.click.aliexpress.com/e/cLLzjCIc
+Driver TMC2208: http://s.click.aliexpress.com/e/ccs2djCM
+Poleas y correa: http://s.click.aliexpress.com/e/bS3cLeN6
+
+Estructura Acero 3mm
+Perfil: 30x30 Ranura 8
+
+Piezas impresas PLA 
+Piezas impresas en PETG X-Carriage
+
+Guias Lineales MGN12C:
+2x 450mm + Patin Extra
+1x 400mm
+
+Varillas 8mm
+2x 320mm
+

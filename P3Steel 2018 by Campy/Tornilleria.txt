@@ -1,0 +1,4 @@
+Estructura 3x12
+Perfiles 5x12
+Sujeccion X a las guias 3x16
+Sujeccion Y a las guias 3x10
